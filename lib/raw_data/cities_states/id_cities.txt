@@ -1,0 +1,524 @@
+Aberdeen
+Acequia
+Ahsahka
+Albion
+Almo
+Alpha
+Alpine
+Am Falls
+American Falls
+Ammon
+Anderson Dam
+Annis
+Anthony
+Apple Valley
+Appleton
+Arbon
+Archer
+Arco
+Argora
+Arimo
+Ashton
+Athol
+Atlanta
+Atomic City
+Avery
+Baker
+Bancroft
+Banks
+Bannock
+Barrymore
+Basalt
+Basin
+Bates
+Bayview
+Beachs Corner
+Bear
+Bellevue
+Belmont
+Bench
+Bennington
+Bern
+Big Springs
+Blackfoot
+Blanchard
+Bliss
+Bloomington
+Blue Dome
+Boise
+Bonanza
+Bone
+Bonners Ferry
+Bovill
+Bowmont
+Box Canyon
+Broadford
+Bruneau
+Bruneau Valley
+Buhl
+Burgdorf
+Burley
+Burmah
+Burton
+Cabinet
+Calder
+Caldwell
+Cambridge
+Canyon Creek
+Carey
+Careywood
+Carmen
+Cascade
+Castleford
+Cataldo
+Centerville
+Central
+Challis
+Cherry Creek
+Chester
+Chesterfield
+Chilco
+Chilly
+Chubbuck
+Churchill
+Clark Fork
+Clarkia
+Clawson
+Clayton
+Clearwater
+Clementsville
+Clifton
+Clover
+Clyde
+Cobalt
+Cocolalla
+Coeur d'Alene
+Colburn
+Collister
+Coltman
+Conda
+Coolin
+	Cooperville
+Copeland
+Corral
+Cotterel
+Cottonwood
+Council
+Craigmont
+Craters of the Moon National
+Crouch
+Crystal
+Culdesac
+Cuprum
+Curry
+Dalton Gardens
+Daniels
+Darlington
+Dayton
+Deary
+Declo
+Deep Creek
+Desmet
+Dietrich
+Dingle
+Dixie
+Doles
+Donnelly
+Dover
+Downey
+Driggs
+Drummond
+Dubois
+Eagle
+Eagle Rock
+East Hope
+Eastport
+Eaton
+Eden
+Edmonds
+Egin
+Elba
+Elk Bend
+Elk City
+Elk Horn
+Elk River
+Ellis
+Emmett
+Enaville
+Enrose
+Fairfield
+Falls City
+Featherville
+Felt
+Fenn
+Ferdinand
+Fernwood
+Filer
+Firth
+Fish Haven
+Fort Hall
+Fort Hall Indian Reservation
+Fox Creek
+Franklin
+Fruitland
+Fruitvale
+Gannett
+Garden City
+Garden Creek
+Garden Valley
+Gardena
+Garwood
+Genesee
+Geneva
+Georgetown
+Gibbonsville
+Gibson
+Givens Hot Springs
+Glencoe
+Glenns Ferry
+Gooding
+Goodrich
+Goshen
+Grace
+Grand View
+Grangeville
+Granite
+Grant
+Grasmere
+Gray
+Greencreek
+Greenleaf
+Greenwood
+Greer
+Gross
+Groveland
+Guffey
+Gwenford
+Hagerman
+Hailey
+Hamer
+Hamilton Corner
+	Hammett
+Hansen
+Harrison
+Harvard
+Hauser
+Hawkins
+Hayden
+Hayden Lake
+Hazelton
+Heglar
+Heise
+Helmer
+Heman
+Henry
+Heyburn
+Hidden Springs
+Hill City
+Hillview
+Holbrook
+Hollister
+Homedale
+Hope
+Hornet
+Horseshoe Bend
+Hot Spring Landing
+Howe
+Humphrey
+Hunt
+Huston
+Idaho City
+Idaho Falls
+Idahome
+Idman
+Indian Cove
+Indian Valley
+Inkom
+Iona
+Irwin
+Island Park
+Jackson
+Jamestown
+Jerome
+Jonathan
+Juliaetta
+Kamiah
+Kellogg
+Kendrick
+Ketchum
+Keuterville
+Kilgore
+Kimball
+Kimberly
+King Hill
+Kingston
+Knowlton Heights
+Kooskia
+Kootenai
+Kuna
+Labelle
+Laclede
+Lago
+Lake Fork
+Lamont
+Lapwai
+Lardo
+Last Chance Resort
+Lava Hot Springs
+Leadore
+Lemhi
+Lenore
+Letha
+Lewiston
+Lewisville
+Liberty
+Lidy Hot Springs
+Lincoln
+Linrose
+Lone Pine
+Lone Star
+Lorenzo
+Lowell
+Lower Presto
+Lower Stanley
+Lowman
+Lucile
+Lund
+Lyman
+Lynwood
+Mackay
+Mackey Bar
+Macks Inn
+Magic City
+Malad
+Malad City
+Malta
+Marsing
+Marysville
+May
+Mayfield
+McCall
+	McCammon
+Meadows
+Medimont
+Melba
+Mellon Valley
+Menan
+Meridian
+Mesa
+Middleton
+Midvale
+Minidoka
+Monteview
+Montour
+Montpelier
+Moore
+Mora
+Moreland
+Moscow
+Mountain Home
+Mountain Home Air Force Base
+Moyie Springs
+Mud Lake
+Muldoon
+Mullan
+Murphy
+Murray
+Murtaugh
+Nampa
+Naples
+Neeley
+New Centerville
+New Meadows
+New Plymouth
+New Sweden
+Newdale
+Nezperce
+Niter
+Nordman
+North Fork
+Northside
+Notus
+Nounan
+Oakley
+Oasis
+Obsidian
+Ola
+Oldtown
+Onaway
+Oreana
+Orofino
+Osburn
+Osgood
+Ovid
+Palisades
+Paradise Hot Springs
+Paris
+Parker
+Parma
+Patterson
+Paul
+Payette
+Pearl
+Pebble
+Peck
+Pegram
+Pella
+Picabo
+Pierce
+Pine
+Pine Ridge
+Pinehurst
+Pingree
+Pioneerville
+Placerville
+Plano
+Pleasantview
+Plummer
+Pocatello
+Pollock
+Ponderay
+Ponds Resort
+Porthill
+Post Falls
+Potlatch
+Prairie
+Preston
+Prichard
+Priest Lake
+Priest River
+Princeton
+Raft River
+Rathdrum
+Raymond
+Redfish Lake
+Reno
+Reubens
+Rexburg
+Reynolds
+Richfield
+Riddle
+Rigby
+Riggins
+Ririe
+Riverside
+Roberts
+Robin
+Rock Creek
+Rockford
+Rockland
+Rocky Bar
+Rogerson
+Rose
+Rose Lake
+Roseberry
+Roseworth
+Roswell
+Roy
+Rupert
+Sagle
+Saint Anthony
+Saint Charles
+Saint Leon
+Saint Maries
+Salmon
+Samaria
+Sanders
+Sandpoint
+Santa
+Shelley
+Shelton
+Shoshone
+Shoup
+Silver City
+Silver Creek Plunge
+Silverton
+Skyline
+Small
+Smelterville
+Soda Springs
+Southwick
+Spalding
+Spencer
+Spirit Lake
+Springdale
+Springfield
+Squirrel
+Stanley
+Star
+Star Ranch
+Starrhs Ferry
+State Line
+Steirman
+Sterling
+Stibnite
+Stites
+Stoddard
+Stone
+Sugar City
+Sugar Loaf
+Sun Valley
+Sunbeam
+Sunnydell
+Sunnyslope
+Swan Valley
+Swanlake
+Sweet
+Sweetwater
+Syringa
+Taber
+Tamarack
+Taylor
+Tendoy
+Tensed
+Terreton
+Teton
+Tetonia
+Thatcher
+Thomas
+Thomas Junction
+Thornton
+Three Creek
+Tipanuk
+Topaz
+Torrey
+Triumph
+Troy
+Turner
+Tuttle
+Twin Falls
+Twin Groves
+Twin Lakes
+Tyhee
+Ucon
+University
+Ustick
+Vernon
+Victor
+View
+Viola
+Virginia
+	Wallace
+Wapello
+Wardboro
+Wardner
+Warm Lake
+Warm River
+Warren
+Wayan
+Weippe
+Weiser
+Weitz
+Wendell
+West Magic
+Weston
+Westwood Village
+White Bird
+Wilder
+Wilford
+Wilson
+Winchester
+Woodruff
+Woodville
+Worley
+Yellow Pine

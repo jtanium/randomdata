@@ -1,0 +1,259 @@
+Acme
+Afton
+Aladdin
+Albin
+Alcova
+Allendale
+Alpine
+Alta
+Alva
+Arapahoe
+Archer
+Arlington
+Arminto
+Arvada
+Atlantic City
+Auburn
+Baggs
+Bairoil
+Banner
+Bar Nunn
+Basin
+Bear River
+Bedford
+Beulah
+Big Horn
+Big Piney
+Bill
+Bitter Creek
+Bondurant
+Bordeaux
+Bosler
+Boulder
+Buffalo
+Buford
+Burlington
+Burns
+Burris
+Byron
+Carlile
+Carpenter
+Casper
+Centennial
+Cheyenne
+Chugwater
+Clark
+Clearmont
+Cody
+Cokeville
+Colter Bay
+Cora
+Cowley
+Creston
+Crowheart
+Daniel
+Dayton
+Deaver
+Devils Tower
+Diamond
+Diamondville
+Dixon
+Douglas
+Dubois
+Eden
+Edgerton
+Egbert
+Elk Mountain
+Elmo
+Emblem
+Encampment
+Ethete
+Etna
+Evanston
+Evansville
+F E Warren Air Force Base
+Fairview
+Farson
+FE Warren Air Force Base
+Fontenelle
+Fort Bridger
+Fort Laramie
+Fort Steele
+Fort Washakie
+Four Corners
+Foxpark
+Frannie
+Freedom
+Frontier
+Garland
+Garrett
+Gas Hills
+Gillette
+Glendo
+Glenrock
+Granger
+Granite Canon
+Granite Canyon
+Grass Creek
+Green River
+Greybull
+Grover
+Guernsey
+Hamilton Dome
+Hamsfork
+Hanna
+Harriman
+Hartville
+Hawk Springs
+Hiland
+Hillsdale
+Hoback Junction
+Horse Creek
+Hudson
+Hulett
+Huntley
+Hyattville
+Iron Mountain
+Jackson
+Jackson Hole
+Jay Em
+Jeffrey City
+Jelm
+Jenny Lake
+Kaycee
+Keeline
+Kelly
+Kemmerer
+Kinnear
+Kirby
+Kirtley
+Kortes Dam
+La Barge
+Lagrange
+Lamont
+Lance Creek
+Lander
+Laramie
+Leiter
+Leo
+Linch
+Lingle
+Little America
+Lonetree
+Lookout
+Lost Cabin
+Lost Springs
+Lovell
+Lucky Maccamp
+Lusk
+Lyman
+Lysite
+Mammoth Hot Springs
+Manderson
+Mantua
+Manville
+Marbleton
+Mayoworth
+McFadden
+McKinnon
+Medicine Bow
+Meeteetse
+Meriden
+Midval
+Midwest
+Mills
+Moneta
+Moorcroft
+Moose
+Moran
+Morton
+Mountain Home
+Mountain View
+Muddy Gap
+Natrona
+New Haven
+Newcastle
+Node
+Odonnell Spur
+Opal
+Orin
+Osage
+Oshoto
+Otto
+Parkerton
+Parkman
+Pavillion
+Piedmont
+Pine Bluffs
+Pine Haven
+Pinedale
+Point of Rocks
+Powder River
+Powell
+Prairie Center
+Quealy
+Ralston
+Ranchester
+Rawlins
+Raymond
+Recluse
+Red Desert
+Reliance
+Riner
+Riverside
+Riverton
+Robertson
+Rock River
+Rock Springs
+Rockeagle
+Rolling Hills
+Rozet
+Ryan Park
+Saddlestring
+Saint Stephens
+Sand Draw
+Saratoga
+Savery
+Shawnee
+Shell
+Sheridan
+Shirley Basin
+Shoshoni
+Sinclair
+Slater
+Smoot
+South Pass City
+Story
+Sundance
+Sunrise
+Superior
+Sussex
+Sweetwater Station
+Ten Sleep
+Teton Village
+Thayne
+Thermopolis
+Tie Siding
+Tipton
+Torrington
+Turnerville
+University of Wyoming
+Upton
+Urie
+Uva
+Van Tassell
+Veteran
+Walcott
+Wamsutter
+Wapiti
+Weston
+Wheatland
+Willwood
+Wilson
+Wolf
+Woods Landing
+Worland
+Wright
+Wyarno
+Yellowstone National Park
+Yoder

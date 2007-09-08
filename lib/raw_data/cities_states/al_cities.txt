@@ -1,0 +1,177 @@
+ Abbeville   	  Coaling   	  Goldville   	  Maplesville   	  Russellville
+Abel 	Coatopa 	Goodsprings 	Marbury 	Rutledge
+Abernant 	Cochrane 	Goodwater 	Margaret 	Ryland
+Acmar 	Coden 	Goodway 	Marion 	Safford
+Adamsville 	Coffee Springs 	Gordo 	Marion Junction 	Saginaw
+Addison 	Coffeeville 	Gordon 	Marvel 	Saint Elmo
+Adger 	Coker 	Goshen 	Mathews 	Salem
+Akron 	Collinsville 	Gosport 	Maxwell AFB 	Salitpa
+Alabama City 	Columbia 	Graball 	Maylene 	Samantha
+Alabaster 	Columbiana 	Grady 	Maytown 	Samson
+Alberta 	Comer 	Graham 	McCalla 	Saragossa
+Albertville 	Concord 	Grand Bay 	Mccullough 	Saraland
+Alden 	Cook Springs 	Grangeburg 	McIntosh 	Sardis
+Alexander City 	Coosa Pines 	Grant 	McKenzie 	Sardis City
+Alexandria 	Coosada 	Gravleeton 	Mcmullen 	Satsuma
+Aliceville 	Copeland 	Grayson 	McWilliams 	Sawyerville
+Allen 	Cordova 	Grayson Valley 	Megargel 	Sayre
+Allgood 	Corinth 	Graysville 	Mellow Valley 	Scottsboro
+Alma 	Cortelyou 	Green Pond 	Melvin 	Scyrene
+Almond 	Cottondale 	Greensboro 	Mentone 	Seaboard
+Alpine 	Cottonton 	Greenville 	Meridianville 	Seale
+Alton 	Cottonwood 	Grimes 	Mexia 	Searles
+Altoona 	Courtland 	Grove Hill 	Midfield 	Section
+Andalusia 	Cowarts 	Groveoak 	Midland City 	Selma
+Anderson 	Coy 	Guin 	Midway 	Seminole
+Annemanie 	Cragford 	Gulf Crest 	Miflin 	Semirah Springs
+Anniston 	Crane Hill 	Gulf Shores 	Millbrook 	Semmes
+Aquilla 	Creola 	Gunter AFB 	Millers Ferry 	Shady Grove
+Arab 	Cromwell 	Guntersville 	Millerville 	Shakespeare
+Ardmore 	Cropwell 	Gurley 	Millport 	Shannon
+Ariton 	Cross Roads 	Hackleburg 	Millry 	Shawmut
+Arkadelphia 	Crossville 	Hacoda 	Mineola 	Sheffield
+Arley 	Cuba 	Haleburg 	Minter 	Shelby
+Arlington 	Cullman 	Haleyville 	Mobile 	Shinebone
+Armstrong 	Cusseta 	Hamilton 	Mon Louis 	Shoal Creek
+Ashford 	Cypress 	Hampton Cove 	Monroeville 	Shorter
+Ashland 	Dadeville 	Hanceville 	Montevallo 	Shorterville
+Ashville 	Daleville 	Hardaway 	Montgomery 	Sikesville
+Athens 	Damascus 	Harkins Crossroads 	Montrose 	Silas
+Atmore 	Danville 	Harpersville 	Moody 	Siluria
+Attalla 	Daphne 	Harrisburg 	Mooresville 	Silver Cross
+Atwood 	Dauphin Island 	Hartford 	Morris 	Silverhill
+Auburn 	Daviston 	Hartselle 	Morvin 	Sims Chapel
+Autaugaville 	Dawson 	Harvest 	Motley 	Sipsey
+Avon 	Dayton 	Hatchechubbee 	Moulton 	Skipperville
+Avondale 	De Armanville 	Havana 	Moundville 	Skyland
+Axis 	Deatsville 	Hawk 	Mount Hebron 	Slocomb
+Baileyton 	Decatur 	Hawthorn 	Mount Hope 	Smiths
+Baker Hill 	Deer Park 	Hawthorne 	Mount Meigs 	Smiths Station
+Banks 	Delmar 	Hayden 	Mount Olive 	Snead
+Bankston 	Delta 	Hayneville 	Mount Vernon 	Snow Hill
+Barfield 	Demopolis 	Haywood 	Mountain Brook 	Somerville
+Barlow 	Detroit 	Hazel Green 	Mulberry 	South Highlands
+Barney 	Dickert 	Headland 	Mulga 	Southside
+Bassetts Creek 	Dickinson 	Healing Springs 	Munford 	Spanish Fort
+Battens Crossroads 	Dixiana 	Heflin 	Muscadine 	Sprague
+Bay Minette 	Dixie 	Helena 	Muscle Shoals 	Spring Garden
+Bayou la Batre 	Dixons Mills 	Henagar 	Myrtlewood 	Springville
+Bazemore 	Dixonville 	Heron Bay 	Nanafalia 	Sprott
+Bear Creek 	Docena 	Higdon 	Napoleon 	Spruce Pine
+Beatrice 	Dolomite 	Highbluff 	Natural Bridge 	St Stephens
+Beaverton 	Dora 	Highland 	Nauvoo 	Standing Rock
+Belk 	Dotelle 	Highland Home 	Needham 	Stansel
+Bell Fountain 	Dothan 	Highland Lake 	New Brockton 	Stanton
+Bellamy 	Double Springs 	Hightower 	New Castle 	Stapleton
+Belle Mina 	Douglas 	Hillsboro 	New Hope 	Steele
+Belleville 	Dozier 	Hodges 	New Market 	Sterrett
+Bellwood 	Duncanville 	Hodgesville 	New Site 	Stevenson
+Benton 	Dupree 	Hokes Bluff 	Newbern 	Stewart
+Berry 	Dutton 	Hollins 	Newell 	Stockton
+Bertha 	East Brewton 	Hollis Crossroads 	Newton 	Straight Mountain
+Bertha 	East Gadsden 	Holly Pond 	Newville 	Straughn
+Bessemer 	East Tallassee 	Hollytree 	Nixburg 	Suggsville
+Beulah 	Eastaboga 	Hollywood 	Normal 	Sulligent
+Big Cove 	Eastside 	Holman Station 	North Florence 	Sumiton
+Bigbee 	Echo 	Holt 	Northport 	Summerdale
+Billingsley 	Echola 	Holy Trinity 	Notasulga 	Sumterville
+Birmingham 	Eclectic 	Homewood 	Oak Grove 	Sunflower
+Black 	Eden 	Honoraville 	Oakhill 	Sunny South
+Bladon Springs 	Edwardsville 	Hoods Crossroads 	Oakman 	Sweetwater
+Blossburg 	Edwin 	Hoover 	Oaky Grove 	Sycamore
+Blount Springs 	Eight Mile 	Hope Hull 	Odenville 	Sylacauga
+Blountsville 	Elba 	Hopewell 	Ofelia 	Sylvan Springs
+Blue Mountain 	Elberta 	Horton 	Ohatchee 	Sylvania
+Blue Springs 	Eldridge 	Houston 	Oneonta 	Talladega
+Bluff 	Elkmont 	Hueytown 	Opelika 	Tallassee
+Bluff Park 	Elliotsville 	Huffman 	Opp 	Tanner
+Bluff Spring 	Elliotsvl 	Huggers Landing 	Orange Beach 	Tarpley
+Boaz 	Elliotsvle 	Huntsville 	Orrville 	Tarrant
+Boligee 	Elmore 	Hurtsboro 	Overton 	Taylor
+Bolinger 	Elrod 	Huxford 	Owens Crossroads 	Theodore
+Bolling 	Elsanor 	Hybart 	Oxford 	Thomaston
+Bon Air 	Emelle 	Hytop 	Oxmoor 	Thomasville
+Bon Secour 	Empire 	Idaho 	Oyster Bay 	Thorsby
+Booth 	Ensley 	Ider 	Ozark 	Three Notch
+Boykin 	Enterprise 	Independence 	Paint Rock 	Tibbie
+Bradley 	Eoline 	Indian Springs 	Palmerdale 	Titus
+Brantley 	Epes 	Irondale 	Panola 	Toney
+Bremen 	Equality 	Irvington 	Pansey 	Town Creek
+Brent 	Erin 	Ivalee 	Parrish 	Townley
+Brewton 	Estillfork 	Jachin 	Patsburg 	Toxey
+Bridgeport 	Ethelsville 	Jack 	Paul 	Trafford
+Brierfield 	Eufaula 	Jackson 	Pelham 	Trenton
+Brighton 	Eunola 	Jacksons Gap 	Pell City 	Triana
+Brilliant 	Eutaw 	Jacksonville 	Pennington 	Trinity
+Bromley 	Eva 	Jasper 	Perdido 	Troy
+Brooklyn 	Evergreen 	Jefferson 	Perdido Beach 	Trussville
+Brookside 	Excel 	Jemison 	Perdue Hill 	Turnerville
+Brookwood 	Fabius 	Jones 	Perote 	Tuscaloosa
+Browns 	Fackler 	Joppa 	Peterman 	Tuscumbia
+Brownsboro 	Fadettes 	Josephine 	Peterson 	Tuskegee
+Brundidge 	Fairfax 	Kansas 	Petrey 	Tyler
+Bryant 	Fairfield 	Keego 	Phenix City 	Union
+Bucks 	Fairford 	Kellerman 	Phil Campbell 	Union Grove
+Buena Vista 	Fairhope 	Kelly Springs 	Piedmont 	Union Springs
+Buhl 	Fairview 	Kellyton 	Pike Road 	Uniontown
+Bull Slough 	Falkville 	Kennedy 	Pinckard 	Uriah
+Burkville 	Fannie 	Kent 	Pine Apple 	Valhermoso Springs
+Burmuda 	Farmersville 	Keystone 	Pine Hill 	Valley
+Burnt corn 	Faunsdale 	Keyton 	Pine Level 	Valley Head
+Burntout 	Fayette 	Killen 	Pinegrove 	Vance
+Burnwell 	Fellowship 	Kimberly 	Pinson 	Vandiver
+Butler 	Fernbank 	Kingville 	Pisgah 	Verbena
+Bynum 	Firms 	Kinsey 	Pittsview 	Vernon
+Cahaba Heights 	Fishhead 	Kinston 	Plantersville 	Vestavia
+Calera 	Fitzpatrick 	Knoxville 	Pleasant Grove 	Vestavia Hills
+Calvert 	Five Points 	Koenton 	Pleasant Home 	Victoria
+Camden 	Flat Rock 	Laceys Spring 	Point Clear 	Vina
+Camp Hill 	Flomaton 	Lafayette 	Pollard 	Vincent
+Campbell 	Florala 	Lake View 	Powhatan 	Vinegar Bend
+Campbells Crossroads 	Florence 	Lamison 	Praco 	Vinemont
+Canoe 	Foley 	Lanett 	Prairie 	Vredenburgh
+Capps 	Forest Home 	Langston 	Pratt City 	Wadley
+Capshaw 	Forestdale 	Lapine 	Prattville 	Wagarville
+Carbon Hill 	Forester Chapel 	Lavaca 	Prestwick 	Walker Springs
+Cardiff 	Forkland 	Lawley 	Prichard 	Wallace
+Carlton 	Fort Davis 	Lawrenceville 	Princeton 	Walnut Grove
+Carr Mill 	Fort Deposit 	Leeds 	Putnam 	Ward
+Carrollton 	Fort Mitchell 	Leesburg 	Pyriton 	Warrior
+Carson 	Fort Morgan 	Leighton 	Quinton 	Waterford
+Castleberry 	Fort Payne 	Lemoyne 	Ragland 	Waterloo
+Catherine 	Fort Rucker 	Lenox 	Rainbow City 	Watson
+Cecil 	Fosters 	Leroy 	Rainsville 	Watts Mill
+Cedar Bluff 	Franklin 	Lester 	Ralph 	Wattsville
+Center Point 	Frankville 	Letohatchee 	Ramer 	Waverly
+Central 	Frisco City 	Level Plains 	Ranburne 	Weaver
+Centre 	Fruitdale 	Levelroad 	Randolph 	Webb
+Centreville 	Fruithurst 	Lexington 	Range 	Wedowee
+Chance 	Fulton 	Liberty Highlands 	Red Bay 	Wellington
+Chancellor 	Fulton Springs 	Libertyville 	Red Level 	Wenonah
+Chapman 	Fultondale 	Lillian 	Redstone Arsenal 	Weogufka
+Chastang 	Furman 	Lincoln 	Reece City 	West Blocton
+Chatom 	Fyffe 	Linden 	Reform 	West Greene
+Chelsea 	Gadsden 	Lineville 	Rehobeth 	Westover
+Cherokee 	Gainestown 	Lisman 	Remlap 	Wetumpka
+Chestnut Grove 	Gainesville 	Little Brooklyn 	Repton 	Whatley
+Chickasaw 	Gallant 	Little River 	Riderwood 	Whistler
+Childersburg 	Gallion 	Livingston 	Ridgeville 	White Hall
+Choccolocco 	Gantt 	Loachapoka 	River Falls 	White Oak
+Christiana 	Garden City 	Lockhart 	Riverchase 	Whitehead
+Chrysler 	Gardendale 	Locust Fork 	Riverside 	Whites Chapel
+Chulafinnee 	Garland 	Logan 	Riverview 	Whitfield
+Chunchula 	Gateswood 	Louisville 	Roanoke 	Wills Crossroads
+Citronelle 	Gayfers 	Lowndesboro 	Roba 	Wilmer
+Claiborne 	Gaylesville 	Loxley 	Robertsdale 	Wilsonville
+Clanton 	Geiger 	Luverne 	Rock Mills 	Wilton
+Clay 	Geneva 	Lynn 	Rockford 	Winfield
+Clayhatchee 	Georgetown 	Macedonia 	Rockledge 	Wing
+Clayton 	Georgiana 	Madison 	Rocky Hill 	Winslow
+Cleveland 	Geraldine 	Madrid 	Rogersville 	Woodland
+Clinton 	Gibsonville 	Magnolia 	Rome 	Woodstock
+Clio 	Gilbertown 	Magnolia Springs 	Romulus 	Woodville
+Clopton 	Glen Allen 	Malcolm 	Rosa 	Yantley
+Cloverdale 	Glen City 	Malone 	Rose Hill 	Yarbo
+Coal City 	Glencoe 	Malvern 	Rosinton 	Yellow Pine
+Coal Fire 	Glenwood 	Manila 	Ruffner 	York
+Coalburg 

@@ -1,0 +1,643 @@
+Abercrombie
+Absaraka
+Adams
+Adrian
+Agate
+Akra
+Alamo
+Alexander
+Alfred
+Alice
+Alkabo
+Almont
+Alsen
+Ambrose
+Amenia
+Amidon
+Anamoose
+Aneta
+Antler
+Appam
+Apple Valley
+Ardoch
+Arena
+Argusville
+Armourdale
+Arnegard
+Arthur
+Arvilla
+Ashley
+Aurelia
+Aylmer
+Ayr
+Backoo
+Baker
+Baldwin
+Balfour
+Balta
+Bantry
+Barlow
+Barney
+Bartlett
+Barton
+Bathgate
+Battleview
+Beach
+Belcourt
+Belden
+Belfield
+Benedict
+Bentley
+Bergen
+Berlin
+Berthold
+Berwick
+Beulah
+Binford
+Bisbee
+Bismarck
+Blaisdell
+Blanchard
+Bloom
+Blue Grass
+Bonetraill
+Bordulac
+Bottineau
+Bowbells
+Bowdon
+Bowesmont
+Bowman
+Braddock
+Brampton
+Brantford
+Breien
+Bremen
+Briarwood
+Brinsmade
+Brisbane
+Brocket
+Buchanan
+Bucyrus
+Buffalo
+Buffalo Springs
+Buford
+Burlington
+Burnstad
+Burt
+Butte
+Buxton
+Caledonia
+Calio
+Calvin
+Cando
+Cannon Ball
+Cannonball
+Carbury
+Carpio
+Carrington
+Carson
+Cartwright
+Casselton
+	Cathay
+Cavalier
+Cayuga
+Center
+Chaffee
+Charbonneau
+Charlson
+Chaseley
+Christine
+Churchs Ferry
+Clementsville
+Cleveland
+Clifford
+Clifton
+Clyde
+Cogswell
+Coleharbor
+Colfax
+Colgan
+Colgate
+Columbus
+Concrete
+Conway
+Cooperstown
+Cooperstwn
+Corinth
+Coteau
+Coulee
+Courtenay
+Crary
+Crete
+Crocus
+Crosby
+Crystal
+Crystal Springs
+Cummings
+Dahlen
+Danzig
+Davenport
+Dawson
+Dazey
+Deering
+Delamere
+Denbigh
+Denhoff
+Des Lacs
+Devils Lake
+Dickey
+Dickinson
+Dodge
+Donnybrook
+Douglas
+Dover
+Doyon
+Drake
+Drayton
+Dresden
+Driscoll
+Dunn Center
+Dunning
+Dunseith
+Durbin
+Dwight
+Eagles Nest
+Eckelson
+Eckman
+Edgeley
+Edinburg
+Edmore
+Edmunds
+Egeland
+Eldridge
+Elgin
+Ellendale
+Elliott
+Embden
+Emerado
+Emmet
+Emrick
+Enderlin
+Englevale
+Epping
+Erie
+Esmond
+Fairdale
+Fairfield
+Fairmount
+Falkirk
+Fallon
+Fargo
+Fessenden
+Fillmore
+Fingal
+Finley
+Flasher
+Flaxton
+Flora
+Fonda
+Forbes
+Fordville
+	Forest River
+Forman
+Fort Clark
+Fort Ransom
+Fort Rice
+Fort Totten
+Fort Yates
+Fortuna
+Foxholm
+Frazier
+Freda
+Fredonia
+Fried
+Frontier
+Fryburg
+Fullerton
+Gackle
+Galchutt
+Galesburg
+Gardar
+Gardner
+Garrison
+Garske
+Gascoyne
+Geneseo
+Gilby
+Gladstone
+Glasston
+Glen Ullin
+Glenburn
+Glenfield
+Glover
+Golden Valley
+Goldenvalley
+Goldwin
+Golva
+Goodrich
+Gorham
+Grace City
+Grafton
+Grand Forks
+Grand Forks Air Force Base
+Grand Rapids
+Grandin
+Grano
+Granville
+Grassy Butte
+Great Bend
+Greene
+Grenora
+Griffin
+Guelph
+Guthrie
+Gwinner
+Hague
+Haley
+Halliday
+Hamar
+Hamilton
+Hamlet
+Hampden
+Hankinson
+Hanks
+Hannaford
+Hannah
+Hannover
+Hansboro
+Harlow
+Hartland
+Harvey
+Harwood
+Hastings
+Hatton
+Havana
+Havelock
+Haynes
+Hazelton
+Hazen
+Heaton
+Hebron
+Heil
+Heimdal
+Hensel
+Hensler
+Hesper
+Hettinger
+Hickson
+Hillsboro
+Homer
+Honeyford
+Hoople
+Hope
+Horace
+Huff
+Hunter
+Hurdsfield
+Inkster
+Jamestown
+Jamestwn
+Jessie
+	Jmst
+Johnsons Corner
+Johnstown
+Joliette
+Juanita
+Jud
+Judson
+Karlsruhe
+Karnak
+Kathryn
+Keene
+Kelso
+Kempton
+Kenaston
+Kenmare
+Kensal
+Killdeer
+Kindred
+Kingsley
+Kintyre
+Kloten
+Knox
+Kongsberg
+Kramer
+Kulm
+Kuroki
+La Moure
+Ladd
+Lake Metigoshe
+Lake Williams
+Lakota
+Lamoure
+Landa
+Langdon
+Lankin
+Lansford
+Larimore
+Lark
+Larson
+Lawton
+Leal
+Leeds
+Lefor
+Lehigh
+Lehr
+Leith
+Leonard
+Leroy
+Lidgerwood
+Lignite
+Lincoln
+Linton
+Lippert
+Lisbon
+Litchville
+Livona
+Lockwood
+Logan
+Loma
+Lone Tree
+Loraine
+Lostwood
+Lucca
+Ludden
+Lunds Valley
+Luverne
+Maddock
+Maida
+Makoti
+Mandan
+Mandaree
+Manfred
+Manitou
+Manning
+Mantador
+Manvel
+Mapes
+Maple
+Mapleton
+Marion
+Marmarth
+Marmon
+Marshall
+Martin
+Max
+Maxbass
+Mayville
+Maza
+Mc Clusky
+Mc Gregor
+Mc Henry
+McCanna
+McClusky
+McGregor
+McHenry
+McKenzie
+McLeod
+McVille
+Medina
+Medora
+Mekinock
+Melville
+Menoken
+Mercer
+Merricourt
+Metigoshe
+Michigan
+Millarton
+Milnor
+Milton
+Minnewaukan
+Minot
+Minot Air Force Base
+Minto
+Moffit
+Mohall
+Monango
+Montpelier
+Mooreton
+Moscow
+Mott
+Mount Carmel
+Mountain
+Munich
+Munster
+Mylo
+Nanson
+Napoleon
+Nash
+Neche
+Nekoma
+Nelvik
+New England
+New Hradec
+New Leipzig
+New Rockford
+New Rockfrd
+New Salem
+New Town
+Newberg
+Newburg
+Newtown
+Niagara
+Niobe
+Nome
+Noonan
+Norma
+North River
+Northgate
+Northwood
+Nortonville
+Norwich
+Oakes
+Oberon
+Omemee
+Ops
+Oriska
+Orr
+Osnabrock
+Ostby
+Overly
+Oxbow
+Page
+Palermo
+Park River
+Parshall
+Pekin
+Pembina
+Penn
+Perth
+Petersburg
+Pettibone
+Pick City
+Pickardville
+Pillsbury
+Pingree
+Pisek
+Plaza
+Pleasant Lake
+Porcupine
+Portal
+Portland
+Powers Lake
+Prairie Rose
+Prairieview
+Price
+Prosper
+Raleigh
+Raub
+Rawson
+Ray
+Reeder
+Regan
+Regent
+Reiles Acres
+Revere
+Reynolds
+Rhame
+Rhoades
+Richardton
+	Riverdale
+Riverside
+Robinson
+Rock Lake
+Rocklake
+Rogers
+Rolette
+Rolla
+Rose Hill
+Roseglen
+Ross
+Roth
+Round Prairie
+Rugby
+Ruso
+Russell
+Ruthville
+Rutland
+Ryder
+Saint Anthony
+Saint Gertrude
+Saint John
+Saint Michael
+Saint Thomas
+San Haven
+Sanborn
+Sanger
+Sanish
+Sarles
+Saundersville
+Sawyer
+Schefield
+Scranton
+Selfridge
+Selz
+Sentinel
+Sentinel Butte
+Sharon
+Sheldon
+Shepard
+Sherwood
+Sheyenne
+Shields
+Sibley
+Silva
+Simcoe
+Solen
+Souris
+South Heart
+South Prairie
+Southam
+Spencer
+Spiritwood
+Spiritwood Lake
+Springbrook
+Stanley
+Stanton
+Starkweather
+Steele
+Sterling
+Stirum
+Strasburg
+Straubville
+Streeter
+Surrey
+Sutton
+Sydney
+Sykeston
+Tagus
+Tappen
+Taylor
+Temple
+Temvik
+Thompson
+Thorne
+Timmer
+Tioga
+Tokio
+Tolley
+Tolna
+Tower City
+Towner
+Trenton
+Trotters
+Turtle Lake
+Tuttle
+Twin Buttes
+Underwood
+Union
+Upham
+Urbana
+Valley City
+Velva
+Venturia
+Verendrye
+Verona
+Voltaire
+Voss
+Wabek
+Wahpeton
+	Walcott
+Wales
+Walhalla
+Walum
+Wano
+Warren
+Warsaw
+Warwick
+Washburn
+Watford City
+Watford Cty
+Watford Cy
+Webster
+Wellsburg
+Werner
+West Fargo
+Westby
+Westhope
+Wheatland
+Wheelock
+White Earth
+White Shield
+Whitman
+Wild Rice
+Wildrose
+Williston
+Willow City
+Wilton
+Wimbledon
+Windsor
+Wing
+Wishek
+Wolford
+Wolseth
+Wood Lake
+Woodbury
+Woodworth
+Wyndmere
+York
+Ypsilanti
+Zahl
+Zap
+Zeeland

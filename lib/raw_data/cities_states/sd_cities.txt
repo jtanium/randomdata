@@ -1,0 +1,738 @@
+Aberdeen
+Academy
+Ada
+Agar
+Agency Village
+Akaska
+Albee
+Alcester
+Alexandria
+Allen
+Alpena
+Alsen
+Alsville
+Altamont
+Ames
+Amherst
+Anderson
+Andover
+Appleby
+Ardmore
+Argonne
+Arlington
+Armour
+Arpan
+Artas
+Artesian
+Ashton
+Astoria
+Athboy
+Athol
+Auance
+Aurora
+Aurora Center
+Avon
+Bad Nation
+Badger
+Bailey
+Bakerville
+Baltic
+Bancroft
+Barnard
+Batesland
+Bath
+Bear Butte
+Beardsley
+Beebe
+Belle Fourche
+Belvidere
+Bemis
+Ben Claire
+Beresford
+Bethlehem
+Betts
+Big Springs
+Big Stone
+Big Stone City
+Bijou Hills
+Billsburg
+Bison
+Bixby
+Black Hawk
+Blackpipe
+Bloomfield
+Blue Dog Lake
+Bluebell
+Blunt
+Bonesteel
+Bonilla
+Bovee
+Bowdle
+Box Elder
+Bradley
+Brainard
+Brandon
+Brandt
+Brentford
+Bridger
+Bridgewater
+Bristol
+Britton
+Broadland
+Brookings
+Bruce
+Bryant
+Buffalo
+Buffalo Gap
+Buffalo Ridge
+Bullhead
+Burbank
+Burdock
+Burke
+Burkmere
+Bushnell
+Butler
+Cactus Flats
+Calico
+Camp Crook
+Campbell
+Canistota
+Canning
+	Canova
+Canton
+Capa
+Caputa
+Carlock
+Carpenter
+Carter
+Carthage
+Cash
+Castle Rock
+Castlewood
+Cavour
+Cedar Canyon
+Cedarbutte
+Center
+Center Point
+Centerville
+Central City
+Chalk Butte
+Chamberlain
+Chance
+Chancellor
+Chelsea
+Cherry Creek
+Chester
+Cheyenne River Reservation
+Claire City
+Claremont
+Clark
+Clark Colony
+Clayton
+Clear Lake
+Clearfield
+Clough
+Coal Springs
+Colman
+Colome
+Colton
+Columbia
+Como
+Conata
+Conde
+Cooper
+Corona
+Corsica
+Corson
+Cottonwood
+Crandall
+Craven
+Crazy Horse
+Creighton
+Cresbard
+Crocker
+Crooks
+Crow Creek
+Custer
+Dakota Dunes
+Dalesburg
+Dallas
+Danforth
+Dante
+Date
+Davis
+De Smet
+Deadwood
+Deerfield
+Degray
+Dell Rapids
+Delmont
+Dempster
+Denby
+Dewey
+Dimock
+Dixon
+Doland
+Dolton
+Dowling
+Draper
+Dry Wood Lake
+Dupree
+Eagle
+Eagle Butte
+Eakin
+Eden
+Edgemont
+Edna
+Edson
+Egan
+Elk Point
+Elkton
+Ellis
+Ellsworth Air Force Base
+Elm Lake
+Elwood
+Emery
+Emmet
+England Ranch
+Englewood
+Enning
+Epiphany
+	Erwin
+Esmond
+Estelline
+Ethan
+Eureka
+Fairbank
+Fairburn
+Fairfax
+Fairpoint
+Fairview
+Faith
+Farmer
+Farmingdale
+Faulkton
+Fedora
+Ferney
+Firesteel
+Flandreau
+Fleming
+Florence
+Flyger
+Foley
+Folsom
+Forest City
+Forestburg
+Fort Meade
+Fort Pierre
+Fort Thompson
+Foster
+Francis
+Frankfort
+Franklin
+Frederick
+Freeman
+Fruitdale
+Fulton
+Game Lodge
+Gann Valley
+Garden City
+Garretson
+Gary
+Gayville
+Geddes
+Gettysburg
+Gill
+Glad Valley
+Glen
+Glencross
+Glendo
+Glenham
+Goodwin
+Gopher
+Gorman
+Govert
+Grashul
+Grass Rope
+Greenfield
+Greenway
+Greenwood
+Gregory
+Grenville
+Gretna
+Groton
+Grover
+Gumbo
+Gustave
+Hamill
+Hammer
+Harney Peak
+Harrington
+Harrisburg
+Harrison
+Harrold
+Hartford
+Hartley
+Hayes
+Hayti
+Hayward
+Hazel
+Headlee Ranch
+Hecla
+Henry
+Heppner
+Hereford
+Hermosa
+Herreid
+Herrick
+Hetland
+Hidden Timber
+Highmore
+Hiles
+Hill City
+Hilland
+Hillhead
+Hills
+Hillsview
+Hilmoe
+Hisega
+Hisle
+Hitchcock
+	Holabird
+Holmquist
+Hooker
+Hoover
+Hosmer
+Hot Springs
+Houghton
+Houston
+Hoven
+Howard
+Howell
+Howes
+Hub City
+Hudson
+Huffton
+Humboldt
+Huntimer
+Hurley
+Huron
+Huron Colony
+Ideal
+Imlay
+Imogene
+Inland
+Interior
+Ipswich
+Irene
+Iron Mountain
+Iroquois
+Isabel
+James
+James Valley
+Janesville
+Janousek
+Java
+Jefferson
+Joe Creek
+Johnsonville
+Jolly Acres
+Joubert
+Junction City
+Junius
+Kadoka
+Kain
+Kampeska
+Kary
+Kasper
+Kaylor
+Keldron
+Kenel
+Kennebec
+Keyapaha
+Keystone
+Kidder
+Kimball
+Kingsbury
+Kirley
+Kones Corner
+Kranzburg
+Kyle
+La Plant
+Labolt
+Lacy
+Lake Alvin
+Lake Andes
+Lake Brandt
+Lake Byron
+Lake Campbell
+Lake City
+Lake Herman
+Lake Madison
+Lake Mitchell
+Lake Norden
+Lake Poinsett
+Lake Preston
+Lake Sinai
+Lakeport
+Lane
+Langford
+Lantry
+Laroche
+Lauzen
+Lead
+Lebanon
+Lemmon
+Lennox
+Leola
+Lesterville
+Letcher
+Lightcap
+Lily
+Linden Beach
+Lindsey
+Little Eagle
+Lodgepole
+Long Valley
+Longlake
+Loomis
+Lower Brule
+Lowry
+Loyalton
+Lucas
+Ludlow
+Lyman
+Lyons
+Lyonville
+Madison
+Madsen Beach
+Manchester
+Manderson
+Mansfield
+Maple Leaf
+Marcus
+Marcy Colony
+Marion
+Martin
+Marty
+Marvin
+Mason
+Maurine
+Maverick
+Mayfield
+McClure
+McCook Lake
+McIntosh
+McLaughlin
+Meadow
+Meckling
+Mellette
+Menno
+Midland
+Midway
+Milbank
+Milesville
+Millboro
+Miller
+Milltown
+Minnekata
+Miranda
+Mission
+Mission Hill
+Mitchell
+Mobridge
+Moe
+Moenville
+Monroe
+Montrose
+Moreau
+Morristown
+Mosher
+Mound City
+Mount Vernon
+Mud Butte
+Murdo
+Mystic
+Naomi
+Naples
+Nemo
+New Effington
+New Holland
+New Underwood
+Newark
+Newell
+Nisland
+Nora
+Norbeck
+Norman Ranch
+Norris
+North Sioux City
+Northville
+Norway Center
+Nowlin
+Nunda
+Oacoma
+Oahe
+Oakwood Lake
+Oelrichs
+Oglala
+Ohem
+Okaton
+Okobojo
+Okreek
+Ola
+Old Town
+Oldham
+Olivet
+Olson
+Olsonville
+Onaka
+Onida
+Opal
+Oral
+Ordway
+Orient
+Orland
+Ortley
+Orton
+Ottumwa
+Owanka
+Pactola Lake
+	Palisade
+Parade
+Parker
+Parkston
+Parmelee
+Patricia
+Paxton
+Peever
+Pelican
+Philip
+Pickstown
+Piedmont
+Pierpont
+Pierre
+Pine Ridge
+Pine Ridge Reservation
+Pine Run
+Plainview
+Plankinton
+Plano
+Platte
+Plum Creek
+Pluma
+Pollock
+Polo
+Porcupine
+Potato Creek
+Powell
+Prairie City
+Presho
+Pringle
+Promise
+Pukwana
+Putney
+Quinn
+Ralph
+Ramona
+Ramsey
+Randolph
+Rapid City
+Rauville
+Ravinia
+Raymond
+Red Elm
+Red Iron Lake
+Red Scaffold
+Red Shirt
+Redfield
+Redig
+Ree Heights
+Reliance
+Renner
+Reva
+Revillo
+Richland
+Ridgeview
+Robey
+Rochford
+Rockerville
+Rockham
+Rockyford
+Roland Colony
+Roscoe
+Rosebud
+Rosebud Indian Reservation
+Rosholt
+Roslyn
+Roswell
+Roubaix
+Rousseau
+Rowena
+Rumpus Ridge
+Running Water
+Rutland
+Saint Charles
+Saint Francis
+Saint Lawrence
+Saint Onge
+Salem
+Sanator
+Sand Lake
+Sansarc
+Savoy
+Scenic
+Scotland
+SD State University
+Selby
+Seneca
+Shadehill
+Shady Beach
+Sharps Corner
+Shelby
+Sherman
+Shindler
+Silver City
+Silver Lake
+Sinai
+Sioux Falls
+Sisseton
+Sitka
+	Sky Ranch
+Smiths Park
+Smithwick
+Sodak Park
+South Shore
+Spain
+Spearfish
+Spearfish Canyon
+Spencer
+Spink
+Spink Colony
+Spirit Lake
+Spottwood
+Spring Creek
+Springfield
+Stamford
+Standing Rock
+Standing Rock Reservation
+Stanley Corner
+Stephan
+Stevens
+Stickney
+Stockholm
+Stoneville
+Storla
+Strandburg
+Stratford
+Strool
+Sturgis
+Summit
+Sunset Colony
+Swan Lake
+Sweeney
+Swett
+Sylvan Lake
+Tabor
+Tacoma Park
+Tea
+Tekakwitha
+Tennis
+Terraville
+Terry Peak
+Thomas
+Thunder Hawk
+Tilford
+Tilton
+Timber Lake
+Tolstoy
+Toronto
+Trail City
+Trent
+Tripp
+Trojan
+Troy
+Tulare
+Tunnerville
+Turkey Ridge
+Turton
+Tuthill
+Twin Brooks
+Tyndall
+Union Center
+Unityville
+Usta
+Utica
+Vale
+Valley Springs
+Van Metre
+Vayland
+Veblen
+Verdon
+Vermillion
+Vetal
+Viborg
+Victor
+Vienna
+Viewfield
+Vilas
+Virgil
+Vivian
+Volga
+Volin
+Volunteer
+Wagner
+Wakonda
+Wakpala
+Walker
+Wall
+Wall Lake
+Wallace
+Wanamaker
+Wanblee
+Ward
+Warner
+Wasta
+Watauga
+Watertown
+Waubay
+Waverly
+Weaver
+	Webster
+Wecota
+Wellington
+Wendt
+Wentworth
+Wessington
+Wessington Springs
+Westerville
+Westover
+Westport
+Wetonka
+Wewela
+White
+White Butte
+White Lake
+White Owl
+White River
+Whitehorse
+Whitewood
+Wicksville
+Willet
+Willow Lake
+Wilmot
+Wilson Corner
+Winfred
+Winner
+Witten
+Wittenberg
+Wolsey
+Wood
+Woonsocket
+Worthing
+Wounded Knee
+Yale
+Yankton
+Yankton Indian Reservation
+Zell
+Zeona

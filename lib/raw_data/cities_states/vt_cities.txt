@@ -1,0 +1,709 @@
+Abnaki
+Adamant
+Adams Landing
+Addison
+Albany
+Albany Center
+Alburg
+Alpine Haven
+Andover
+Arlington
+Arlington Center
+Arnold Bay
+Ascutney
+Athens
+Averill
+Bakersfield
+Baltimore
+Barnard
+Barnet
+Barnet Center
+Barnumsville
+Barnumtown
+Barnumville
+Barre
+Barre Junction
+Barton
+Bartonsville
+Basin Harbor
+Beaulieus Corner
+Beebe Plain
+Beecher Falls
+Bellows Falls
+Belmont
+Belvidere
+Belvidere Center
+Belvidere Corners
+Belvidere Junction
+Bennington
+Bennington College
+Benson
+Benson Landing
+Berkshire
+Berkshire Center
+Berlin
+Bethel
+Binghamville
+Birdland
+Bliss Pond
+Blissville
+Bloomfield
+Bolton
+Bolton Valley
+Bomoseen
+Bondville
+Bordoville
+Boutswells
+Bowlsville
+Bradford
+Braintree
+Branch
+Brandon
+Brattleboro
+Brattleboro Center
+Bread Loaf
+Bridgewater
+Bridgewater Center
+Bridgewater Corners
+Bridport
+Brighton
+Brimstone Corners
+Bristol
+Brockways Mills
+Bromley Mountain
+Brookfield
+Brookfield Center
+Brookline
+Brookside
+Brookville
+Brownington
+Brownsville
+Brunswick
+Buels Gore
+Burke
+Burke Mountain
+Burlington
+Burlington International Air
+Button Bay
+Cabot
+Cadys Falls
+Calais
+Cambridge
+Cambridgeboro
+Cambridgeport
+Camp Johnson
+Canaan
+Castleton
+Castleton State College
+Cavendish
+Cedar Beach
+Center Rutland
+	Charleston
+Charlotte
+Chelsea
+Chester
+Chester Depot
+Chimney Point
+Chipman Lake
+Chipmans Point
+Chippenhook
+Chiselville
+Chittenden
+Clarendon
+Clarendon Springs
+Clementwood
+Cleveland Corner
+Cloverdale
+Colbyville
+Colchester
+Concord
+Concord Corner
+Cookville
+Corinth
+Corinth Center
+Corinth Corners
+Cornwall
+Coventry
+Craftsbury
+Craftsbury Common
+Crow Hill
+Crown Point
+Crystal Beach
+Cuttingsville
+Danby
+Danby Corners
+Danville
+Danville Center
+Derby
+Derby Line
+Dorset
+Downingville
+Dummerston
+Duxbury
+Eagle Point
+East Albany
+East Arlington
+East Barnard
+East Barre
+East Berkshire
+East Bethel
+East Brookfield
+East Burke
+East Cabot
+East Calais
+East Charleston
+East Concord
+East Corinth
+East Craftsbury
+East Dorset
+East Dover
+East Dummerston
+East Elmore
+East Enosburg
+East Fairfield
+East Franklin
+East Granville
+East Hardwick
+East Haven
+East Highgate
+East Hill
+East Hubbardton
+East Jamaica
+East Johnson
+East Lyndon
+East Middlebury
+East Montpelier
+East Montpelier Center
+East Orange
+East Peacham
+East Pittsford
+East Poultney
+East Putney
+East Randolph
+East Roxbury
+East Rupert
+East Ryegate
+East Saint Johnsbury
+East Sheldon
+East Sutton Ridge
+East Thetford
+East Wallingford
+East Warren
+Eden
+Eden Mills
+Elmore
+Ely
+Enosburg
+Enosburg Center
+Enosburg Falls
+Essex
+Essex Center
+	Essex Junction
+Evansville
+Fair Haven
+Fairfax
+Fairfield
+Fairfield Pond
+Fairground
+Fairgrounds
+Fairlee
+Fayston
+Felchville
+Ferdinand
+Ferrisburg
+Fieldsville
+Fletcher
+Florence
+Fonda
+Fonda Junction
+Forest Dale
+Franklin
+Fredetteville
+Gageville
+Gallup Mills
+Garfield
+Gassetts
+Gaysville
+Georgia
+Gilford
+Gilman
+Glen
+Glover
+Goose Green
+Goshen
+Gould Hill
+Grafton
+Grahamville
+Granby
+Granby Valley
+Grand Isle
+Graniteville
+Granville
+Green Corner
+Green River
+Greenbush
+Greensboro
+Greensboro Bend
+Groton
+Grout
+Guildhall
+Guilford
+Guilford Center
+Halifax
+Hammondsville
+Hancock
+Hardwick
+Harmonyville
+Harrisville
+Hartford
+Hartland
+Hartland Four Corners
+Healdville
+Heartwell
+Heartwellville
+Hectorville
+Herrick
+Highgate
+Highgate Center
+Highgate Falls
+Highgate Springs
+Hill West
+Hinesburg
+Hog Island
+Holland
+Hortonville
+Hubbardton
+Huntington
+Huntington Center
+Huntington Lower Village
+Hutchins
+Hyde Park
+Hydeville
+Indian Point
+Inwood
+Ira
+Irasburg
+Irasville
+Island Pond
+Isle La Motte
+Jacksonville
+Jamaica
+Jay
+Jay Peak
+Jeffersonville
+Jenneville
+Jericho
+Jericho Center
+Jerusalem
+Joes Pond
+Johnsbury
+Johnson
+	Jones Brook
+Jonesville
+Kansas
+Keeler Bay
+Keelers Bay
+Killington
+Kimballs
+Kirby
+Knights Point
+Lagrange
+Lake Carmi
+Lake Dunmore
+Lake Elmore
+Lake Emerald
+Lake Hinevah
+Lake Hortonia
+Lake Iroquois
+Lake Lamoille
+Lake Morey
+Lake Park
+Lake Rescue
+Lake St Catherine
+Lake Valley
+Lakewood
+Landgrove
+Leicester
+Lemington
+Lillieville
+Lincoln
+Londonderry
+Long Point
+Lowell
+Lower Cabot
+Lower Granville
+Lower Plain
+Lower Waterford
+Lower Websterville
+Ludlow
+Lunenburg
+Lyman
+Lyndon
+Lyndon Center
+Lyndon Corners
+Lyndonville
+Mackville
+Mad River Glen
+Madonna
+Maidstone
+Manchester
+Manchester Center
+Manchester Village
+Maple Dell
+Maquam
+Marlboro
+Marlboro College
+Marshfield
+Mary Meyer
+McIndoe Falls
+Mechanicsburg
+Medburyville
+Mendon
+Middlebury
+Middlesex
+Middlesex Center
+Middletown
+Middletown Springs
+Mile Point
+Miles Pond
+Mill Village
+Milton
+Monkton
+Monkton Ridge
+Montgomery
+Montgomery Center
+Montpelier
+Montpelier Junction
+Moretown
+Morgan
+Morgan Center
+Morristown
+Morrisville
+Morses Line
+Morses Mills
+Moscow
+Mosquitoville
+Mount Holly
+Mount Philo
+Mount Snow
+Mount Tabor
+Mud City
+Neshobe Beach
+New Haven
+New Haven Junction
+New Haven Mills
+Newark
+Newark Hollow
+Newbury
+Newbury Center
+Newfane
+Newport
+Newport Center
+Newport City
+North Bennington
+North Burlington
+North Calais
+North Chittenden
+North Clarendon
+North Concord
+North Derby
+North Duxbury
+North Fayston
+North Ferrisburg
+North Hartland
+North Hero
+North Hyde Park
+North Middlesex
+North Montpelier
+North Orwell
+North Pawlet
+North Pomfret
+North Pownal
+North Randolph
+North Rupert
+North Shaftsbury
+North Shrewsbury
+North Springfield
+North Thetford
+North Troy
+North Tunbridge
+North Westminster
+North Windham
+North Wolcott
+Northfield
+Northfield Falls
+Norton
+Norwich
+Norwich University
+Olympus
+Orange
+Orchard Lane
+Orleans
+Orwell
+Owls Head Harbor
+Panton
+Paper Mill Village
+Passumpsic
+Pawlet
+Peacham
+Pearl
+Peaseville
+Pedden Acres
+Pekin
+Perkinsville
+Peru
+Pikes Falls
+Pinewood
+Pittsfield
+Pittsford
+Pittsford Mills
+Plainfield
+Pleasant Valley
+Plymouth
+Plymouth Kingdom
+Plymouth Union
+Point Farm
+Popsquash
+Post Mills
+Potash Bay
+Potash Point
+Pottersville
+Poultney
+Pownal
+Pownal Center
+Proctor
+Proctorsville
+Putney
+Quechee
+Queen City
+Queen City Park
+Ralston Corner
+Randolph
+Randolph Center
+Rareville
+Rawsonville
+Reading
+Reading Center
+Readsboro
+Red Village
+Reedville
+Rices Mills
+Richford
+Richmond
+Ripton
+Riverton
+Rixford
+Rochester
+Rockingham
+Rocky Dale
+Roxbury
+Roxbury Flat
+	Royalton
+Rupert
+Russellville
+Russtown
+Rutland
+Rutland Town
+Ryegate
+Ryegate Corner
+Saint Albans
+Saint Albans Bay
+Saint George
+Saint Johnsbury
+Saint Johnsbury Center
+Saint Michaels College
+Saint Rocks
+Salisbury
+Samsonville
+Sandgate
+Saxtons River
+Scottsville
+Searsburg
+Shaftsbury
+Shaftsbury Center
+Sharon
+Shawville
+Sheddsville
+Sheffield
+Sheffield Square
+Shelburne
+Sheldon
+Sheldon Creek
+Sheldon Junction
+Sheldon Springs
+Sherburn
+Shoreham
+Shrewsbury
+Simonsville
+Simpsonville
+Sky Acres
+Smithville
+Smugglers Notch
+Sodom
+South Barre
+South Burlington
+South Chittenden
+South Corinth
+South Dorset
+South Duxbury
+South End
+South Franklin
+South Hero
+South Lincoln
+South Londonderry
+South Lunenburg
+South Newbury
+South Newfane
+South Peacham
+South Pomfret
+South Poultney
+South Pownal
+South Reading
+South Royalton
+South Ryegate
+South Shaftsbury
+South Starksboro
+South Strafford
+South Walden
+South Wallingford
+South Wardsboro
+South Washington
+South Wheelock
+South Windham
+South Woodbury
+South Woodstock
+Spankerton
+Spoonerville
+Springfield
+Stamford
+Stannard
+Starksboro
+Stockbridge
+Stowe
+Strafford
+Stratton
+Stratton Mountain
+Sudbury
+Sugarbush Valley
+Summer Point
+Summit
+Sunderland
+Sutton
+Swamp Rd
+Swanton
+Sweek Hollow
+Taftsville
+The Bluffs
+The Hollow
+Thetford
+Thetford Center
+Thetford Hill
+	Tinmouth
+Topsham
+Topsham Four Corners
+Townshend
+Trow Hill
+Troy
+True Blue
+Tunbridge
+Tyson
+Underhill
+Underhill Center
+Underhill Flats
+Vergennes
+Vernon
+Vershire
+Victory
+Waits River
+Waitsfield
+Waitsfield Common
+Walden
+Wallingford
+Waltham
+Wardsboro
+Wardsborough
+Warren
+Washington
+Waterbury
+Waterbury Center
+Waterford
+Waterville
+Weathersfield
+Weathersfield Bow
+Weathersfield Center
+Websterville
+Wells
+Wells River
+West Addison
+West Arlington
+West Barnet
+West Berkshire
+West Berlin
+West Bolton
+West Braintree
+West Brattleboro
+West Bridgewater
+West Brookfield
+West Burke
+West Castleton
+West Charleston
+West Corinth
+West Cornwall
+West Danville
+West Derby
+West Dover
+West Dummerston
+West Enosburg
+West Fairlee
+West Ferrisburg
+West Glover
+West Halifax
+West Hartford
+West Haven
+West Lincoln
+West Marlboro
+West Milton
+West Minster
+West Newbury
+West Pawlet
+West Rupert
+West Rutland
+West Salisbury
+West Swanton
+West Topsham
+West Townshend
+West Wardsboro
+West Waterford
+West Windsor
+West Woodstock
+Westfield
+Westford
+Westminster
+Westminster Station
+Westminster West
+Westmore
+Weston
+Weston Priory
+Weybridge
+Weybridge Hill
+Wheelock
+White River Junction
+Whiting
+Whitingham
+Wilder
+Williamstown
+Williamsville
+Williston
+Wilmington
+Windham
+Windsor
+Winhall
+	Winooski
+Wolcott
+Wolumsak
+Wood Stock
+Woodbury
+Woodford
+Woodpecker Village
+Woodstock
+Worcester
