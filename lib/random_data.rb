@@ -50,8 +50,18 @@ def generate_identity(options)
   identity[:middle_name] = name[:middle_name]
   identity[:last_name] = name[:last_name]
   identity[:gender] = name[:gender]
+  identity[:mothers_maiden_name] = random_model(LastName).name
+  identity[:social_security_number] = rand(999).to_s.rjust(3, '0') + '-' + rand(999).to_s.rjust(3, '0') + '-' + rand(999).to_s.rjust(4, '0')
   identity[:username] = name[:first_name] + name[:last_name] + rand(999).to_s
-  identity[:password] = name[]
+  identity[:password] = 'password'
+  return identity
+end
+
+def generate_bank(options)
+  bank = random_model(Bank)
+  if bank.is_real
+  else
+  end
 end
 
 def generate_random_date_of_birth()
